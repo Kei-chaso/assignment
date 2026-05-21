@@ -1,0 +1,8 @@
+[
+  {
+    "vocab": "cross-entropy loss",
+    "definition": "A mathematical measurement quantifying the difference between two probability distributions, frequently used to evaluate the accuracy of predictive models by penalizing incorrect classifications. /ˌkɹɔs ˈɛn.tʰɹə.pi lɔs/",
+    "provideContext": false,
+    "userPrompt": null
+  }
+]
